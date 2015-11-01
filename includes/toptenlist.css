@@ -1,0 +1,80 @@
+/* Menu lastpictures */
+
+.nav-pictures {
+    padding: 1px 10px;
+}
+li.row1 {
+	background-color: #CCCCCC;
+}
+li.row2 {
+	background-color: #EBEBDD;
+}
+.link-pictures a{
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #59550C ! important;
+	text-decoration: none;
+}
+.link-pictures a:hover{
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #FF0000 !important;
+	text-decoration: none;
+}
+
+dd.topten-data  {
+	width: 10%;
+	font-size: 1em;
+	padding: 0 !important;
+}
+dd.topten-topic  {
+	width: 40%;
+	padding: 0 !important;
+}
+dd.topten-forum {
+	width: 35%;
+	font-size: 1em;
+	color: #59550C;
+	text-align: left;
+	padding: 0 !important;
+}
+dd.topten-view  {
+	width: 5%;
+	font-size: 1em;
+	padding: 0 !important;
+}
+dd.topten-topic-view {
+	width: 35%;
+	font-size: 1em;
+	color: #59550C;
+	text-align: left;
+	padding: 0 !important;
+}
+dd.topten-author{
+	font-size: 1em;
+	color: #59550C;
+	text-align: left;
+	padding: 0;
+}
+dd.topten-topic  a, dd.topten-topic-view  a{
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #59550C !important;
+	text-decoration: none;
+}
+dd.topten-topic a:hover, dd.topten-topic-view a:hover{
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #FF0000  !important;
+	/*text-decoration: none;*/
+}
+
+/*
+ul.linklist li.responsive-menu a.responsive-menu-link1:before {
+	border-color: #FFFFFF;
+}
+
+ul.linklist li.responsive-menu a.responsive-menu-link1:hover:before, ul.linklist li.responsive-menu.visible a.responsive-menu-link1:before {
+	border-color: #D31141;
+}
+*/
